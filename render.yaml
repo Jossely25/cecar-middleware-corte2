@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: cecar-middleware-corte2
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: CLAVE_API
+        value: CECAR-CORTE2-KEY
+      - key: DATABASE_URL
+        sync: false
+      - key: ACADEMICO_URL
+        sync: false
+      - key: GESTION_URL
+        sync: false
+      - key: TUTORIAS_URL
+        sync: false
+      - key: BIENESTAR_URL
+        sync: false

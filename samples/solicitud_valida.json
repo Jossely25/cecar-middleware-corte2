@@ -1,0 +1,12 @@
+{
+  "codigo_estudiante": "EST001",
+  "nombre_estudiante": "Jossely Aguirre",
+  "correo_institucional": "jossely.aguirre@cecar.edu.co",
+  "programa": "Ingeniería de Sistemas",
+  "asignatura": "Integración de Soluciones Tecnológicas",
+  "tema": "Integración institucional y reglas de calidad",
+  "descripcion": "Necesito apoyo para integrar datos entre sistemas XML y JSON y validar la calidad de la información.",
+  "nivel_urgencia": "media",
+  "fecha_solicitud": "2026-06-16",
+  "estado": "nueva"
+}

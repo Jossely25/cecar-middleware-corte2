@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solicitud>
+  <codigo_estudiante>EST001</codigo_estudiante>
+  <nombre_estudiante>Jossely Aguirre</nombre_estudiante>
+  <correo_institucional>jossely.aguirre@cecar.edu.co</correo_institucional>
+  <programa>Ingeniería de Sistemas</programa>
+  <asignatura>Integración de Soluciones Tecnológicas</asignatura>
+  <tema>Proyecto final y arquitectura de integración</tema>
+  <descripcion>Tengo dudas sobre la integración entre XML, JSON, validación XSD y el middleware central.</descripcion>
+  <nivel_urgencia>alta</nivel_urgencia>
+  <fecha_solicitud>2026-06-16</fecha_solicitud>
+  <estado>nueva</estado>
+</solicitud>
